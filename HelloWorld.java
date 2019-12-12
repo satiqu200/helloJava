@@ -13,7 +13,7 @@ class HelloWorld
         System.out.println("Test Line 1"); 
         System.out.println("Test Line 2"); 
         System.out.println("Test Line 3");
-
+        // adding lines to test Sonarqube
         System.out.println ("Hello, it's: ");
         System.out.println(new Date());
 
