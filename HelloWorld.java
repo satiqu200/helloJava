@@ -1,5 +1,7 @@
 /* This is a simple Java program. 
    FileName : "HelloWorld.java". */
+
+import java.util.*;
 class HelloWorld 
 { 
     // Your program begins with a call to main(). 
@@ -10,6 +12,10 @@ class HelloWorld
         System.out.println("Test Line -1");  
         System.out.println("Test Line 1"); 
         System.out.println("Test Line 2"); 
-        System.out.println("Test Line 3"); 
-    } 
+        System.out.println("Test Line 3");
+
+        System.out.println ("Hello, it's: ");
+        System.out.println(new Date());
+
+    }
 }
